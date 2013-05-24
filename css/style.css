@@ -1,0 +1,29 @@
+.dir {
+    color: blue;
+    text-decoration: underline;
+    font-size: 20px;
+    line-height: 30px;
+    margin: 0 0 0 20px;
+    cursor: pointer;
+}
+
+.container {
+    float: right;
+    top: 0;
+    right: 250px;
+    position: absolute;
+}
+
+.container div {
+    margin-left: 20px;
+}
+
+.container div img {
+    width: 400px;
+}
+
+.container div span {
+    vertical-align: top;
+    position: relative;
+    top: 50px;
+}
